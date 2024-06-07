@@ -13,12 +13,14 @@
    "name" : "🤠 CONTA INSTAGRAM 1K DE SEGUIDORES",
    "price" : "25.00",
    "options" : [
-    { "Size" : "30 DIas,3 Mêses,1 Ano" }
+    { "Size" : "30 DIas,3 Mêses,1 Ano" },
+    { "Color" : "Blue,Red" },
+       { "OneOfAKind" : true }
    ],
    "image" : "https://cdn.ereemby.com/attachments/17174853143578892imagem.png",
    "description" : "Compre As Melhores Contas Conosco"
   },
-  {"
+  {
   }
  ]
 }
