@@ -1,8 +1,8 @@
 {
  "products" : [
   {
-   "name" : "Netflix Premium",
-   "price" : "35.99",
+   "name" : "😎 DESBANIR NÚMERO WHATSAPP",
+   "price" : "45.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
    ],
@@ -10,8 +10,8 @@
    "description" : "Compre As Melhores Contas Conosco"
   },
   {
-   "name" : "Disney Plus",
-   "price" : "15.99",
+   "name" : "🤖 BANIR NÚMERO WHATSAPP",
+   "price" : "45.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" },
     { "Color" : "Blue,Red" },
@@ -20,95 +20,6 @@
    "image" : "https://i.pinimg.com/736x/2b/fc/f1/2bfcf1f53b5d6fc10998509152011368.jpg",
    "description" : "Compre As Melhores Contas Conosco"
   },
-  {
-   "name" : "Canva Pro",
-   "price" : "15.99",
-   "options" : [
-    { "Size" : "30 DIas,3 Mêses,1 Ano" }
-   ],
-   "image" : "https://upload.wikimedia.org/wikipedia/commons/5/5e/Canva_logo..png",
-   "description" : "Compre As Melhores Contas Conosco"
-  },
-  {
-   "name" : "Paramount+",
-   "price" : "35.99",
-   "options" : [
-    { "Size" : "30 DIas,3 Mêses,1 Ano" }
-   ],
-   "image" : "https://store-images.s-microsoft.com/image/apps.35768.9007199266243596.ad78eadf-f174-4f68-8c73-562e5c227afa.9171eaf0-5404-436f-803e-5f420e055b0e",
-   "description" : "Compre As Melhores Contas Conosco"
-  },
-  {
-   "name" : "Google Pay + Gift",
-   "price" : "35.99",
-   "options" : [
-    { "Size" : "30 DIas,3 Mêses,1 Ano" }
-   ],
-   "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDbRoxjX9zMadxJkbonfOqo_SRJGFjlznkYXO95Se_xGpQ0emCUBmANgXb8rqCZVPoJsA&usqp=CAU",
-   "description" : "Compre As Melhores Contas Conosco"
-  },
-  {
-   "name" : "Prime Video",
-   "price" : "35.99",
-   "options" : [
-    { "Size" : "30 DIas,3 Mêses,1 Ano" }
-   ],
-   "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Amazon_Prime_Video_blue_logo_1.svg/2048px-Amazon_Prime_Video_blue_logo_1.svg.png",
-   "description" : "Compre As Melhores Contas Conosco"
-  },
-  {
-   "name" : "Star++ Plus",
-   "price" : "35.99",
-   "options" : [
-    { "Size" : "30 DIas,3 Mêses,1 Ano" }
-   ],
-   "image" : "https://play-lh.googleusercontent.com/aZLb5JKvnzXBAcaU2M9fsgp0vfYBfsXQu_yHaehDzqMDqxCXixVPOdY3y1kWVfJfSBew=w240-h480-rw",
-   "description" : "Compre As Melhores Contas Conosco"
-  },
-  {
-   "name" : "Premiere",
-   "price" : "35.99",
-   "options" : [
-    { "Size" : "30 DIas,3 Mêses,1 Ano" }
-   ],
-   "image" : "https://play-lh.googleusercontent.com/ibgef_YvMpb3I0yHgRbtp78AXJI9YQi56j-RolGp3IhIK1bfLmhmVbllxFnBVj-ka6d7=w240-h480-rw",
-   "description" : "Compre As Melhores Contas Conosco"
-  },
-  {
-   "name" : "Hbo Max Premium",
-   "price" : "35.99",
-   "options" : [
-    { "Size" : "30 DIas,3 Mêses,1 Ano" }
-   ],
-   "image" : "https://play-lh.googleusercontent.com/1iyX7VdQ7MlM7iotI9XDtTwgiVmqFGzqwz10L67XVoyiTmJVoHX87QtqvcXgUnb0AC8=w240-h480-rw",
-   "description" : "Compre As Melhores Contas Conosco"
-  },
-  {
-   "name" : "Crunchyroll Premium",
-   "price" : "35.99",
-   "options" : [
-    { "Size" : "30 DIas,3 Mêses,1 Ano" }
-   ],
-   "image" : "https://yt3.googleusercontent.com/ytc/AIdro_lXbebO3qrmElP3NV2fo0yjPsiX8o5FBNKQ2EPBuhD_Cto=s900-c-k-c0x00ffffff-no-rj",
-   "description" : "Compre As Melhores Contas Conosco"
-  },
-  {
-   "name" : "Spotify Premium",
-   "price" : "35.99",
-   "options" : [
-    { "Size" : "30 DIas,3 Mêses,1 Ano" }
-   ],
-   "image" : "https://play-lh.googleusercontent.com/cShys-AmJ93dB0SV8kE6Fl5eSaf4-qMMZdwEDKI5VEmKAXfzOqbiaeAsqqrEBCTdIEs=w240-h480-rw",
-   "description" : "Compre As Melhores Contas Conosco"
-  },
-  {
-   "name" : "Youtube Premium",
-   "price" : "35.99",
-   "options" : [
-    { "Size" : "30 DIas,3 Mêses,1 Ano" }
-   ],
-   "image" : "https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png",
-   "description" : "Compre As Melhores Contas Conosco"
-  }
+  } 
  ]
 }
