@@ -2,7 +2,7 @@
  "products" : [
   {
    "name" : "LARA MERCADO PAGO PF",
-   "price" : "140,00",
+   "price" : "140.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
    ],
@@ -11,7 +11,7 @@
   },
   {
    "name" : "LARA MERCADO PAGO PJ",
-   "price" : "250,00",
+   "price" : "250.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" },
     { "Color" : "Blue,Red" },
@@ -22,7 +22,7 @@
   },
   {
    "name" : "LARA RECARGA PAY PF",
-   "price" : "190,00",
+   "price" : "190.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
    ],
@@ -31,7 +31,7 @@
   },
   {
    "name" : "LARA RECARGA PAY PJ",
-   "price" : "35.99",
+   "price" : "320.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
    ],
@@ -40,7 +40,7 @@
   },
   {
    "name" : "LARA 99PAY PF",
-   "price" : "120,00",
+   "price" : "120.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
    ],
@@ -49,7 +49,7 @@
   },
   {
    "name" : "LARA SUPER DIGITAL PF",
-   "price" : "200,00",
+   "price" : "200.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
    ],
@@ -58,7 +58,7 @@
   },
   {
    "name" : "LARA CELCOIN PF",
-   "price" : "220,00",
+   "price" : "220.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
    ],
@@ -67,7 +67,7 @@
   },
   {
    "name" : "LARA ONBANK PF",
-   "price" : "190,00",
+   "price" : "190.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
    ],
@@ -76,7 +76,7 @@
   },
   {
    "name" : "LARA SUMUMP PF",
-   "price" : "150,00",
+   "price" : "150.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
    ],
@@ -85,7 +85,7 @@
   },
   {
    "name" : "LARA VOLTZ PF",
-   "price" : "250,00",
+   "price" : "250.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
    ],
@@ -94,7 +94,7 @@
   },
   {
    "name" : "LARA DIMO BANK PF",
-   "price" : "230,00",
+   "price" : "230.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
    ],
@@ -103,7 +103,7 @@
   },
   {
    "name" : "LARA VIVO PAY PF",
-   "price" : "230,00",
+   "price" : "230.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
    ],
@@ -112,7 +112,7 @@
    },
    {
    "name" : "LARA NG CASH PF",
-   "price" : "200,00",
+   "price" : "200.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
    ],
@@ -121,7 +121,7 @@
    },
    {
    "name" : "LARA BIPA WALLET CRIPTO",
-   "price" : "230,00",
+   "price" : "230.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
     ],
@@ -130,7 +130,7 @@
     },
     {
    "name" : "LARA AME DIGITAL",
-   "price" : "220,00",
+   "price" : "220.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
     ],
@@ -139,7 +139,7 @@
     },
     {
    "name" : "LARA CAPITUAL PF",
-   "price" : "125,00",
+   "price" : "125.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
     ],
@@ -148,7 +148,7 @@
     },
     {
    "name" : "LARA BIANANCE PF",
-   "price" : "450,00",
+   "price" : "450.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
     ],
@@ -157,7 +157,7 @@
     },
     {
    "name" : "LARA ASTROPAY PF",
-   "price" : "200,00",
+   "price" : "200.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
     ],
@@ -166,7 +166,7 @@
     },
     {
    "name" : "LARA BANQI PF",
-   "price" : "200,00",
+   "price" : "200.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
     ],
@@ -175,7 +175,7 @@
     },
     {
    "name" : "LARA CHAVE PIX CPF ( ESPECIFICO )",
-   "price" : "550,00",
+   "price" : "550.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
     ],
