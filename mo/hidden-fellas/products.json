@@ -1,8 +1,8 @@
 {
  "products" : [
   {
-   "name" : "LARA MERCADO PAGO PF",
-   "price" : "140.00",
+   "name" : "TELA HBO MAX",
+   "price" : "10.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
    ],
@@ -10,8 +10,8 @@
    "description" : "Compre As Melhores Contas Conosco"
   },
   {
-   "name" : "LARA MERCADO PAGO PJ",
-   "price" : "250.00",
+   "name" : "DUOLINGO PLUS",
+   "price" : "10.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" },
     { "Color" : "Blue,Red" },
@@ -21,8 +21,8 @@
    "description" : "Compre As Melhores Contas Conosco"
   },
   {
-   "name" : "LARA RECARGA PAY PF",
-   "price" : "190.00",
+   "name" : "TELA DISNEY PLUS",
+   "price" : "7.50",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
    ],
@@ -30,7 +30,7 @@
    "description" : "Compre As Melhores Contas Conosco"
   },
   {
-   "name" : "LARA RECARGA PAY PJ",
+   "name" : "TELA PRIME VIDEO",
    "price" : "320.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
@@ -39,8 +39,8 @@
    "description" : "Compre As Melhores Contas Conosco"
   },
   {
-   "name" : "LARA 99PAY PF",
-   "price" : "120.00",
+   "name" : "DANZ CANAIS PREMIUM",
+   "price" : "20.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
    ],
@@ -48,8 +48,8 @@
    "description" : "Compre As Melhores Contas Conosco"
   },
   {
-   "name" : "LARA SUPER DIGITAL PF",
-   "price" : "200.00",
+   "name" : "TELA PARAMOUNT +",
+   "price" : "7.50",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
    ],
@@ -57,8 +57,8 @@
    "description" : "Compre As Melhores Contas Conosco"
   },
   {
-   "name" : "LARA CELCOIN PF",
-   "price" : "220.00",
+   "name" : "TELA CRUNCHROLL",
+   "price" : "10.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
    ],
@@ -66,8 +66,8 @@
    "description" : "Compre As Melhores Contas Conosco"
   },
   {
-   "name" : "LARA ONBANK PF",
-   "price" : "190.00",
+   "name" : "TELA STAR PLUS",
+   "price" : "10.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
    ],
@@ -84,8 +84,8 @@
    "description" : "Compre As Melhores Contas Conosco"
   },
   {
-   "name" : "LARA VOLTZ PF",
-   "price" : "250.00",
+   "name" : "TELA PREMIERE",
+   "price" : "10.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
    ],
@@ -93,8 +93,8 @@
    "description" : "Compre As Melhores Contas Conosco"
   },
   {
-   "name" : "LARA DIMO BANK PF",
-   "price" : "230.00",
+   "name" : "ASSINATURA YOUTUBE PREMIUM",
+   "price" : "7.50",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
    ],
@@ -102,7 +102,7 @@
    "description" : "Compre As Melhores Contas Conosco"
   },
   {
-   "name" : "LARA VIVO PAY PF",
+   "name" : "TELA NETFLIX PRIVADA",
    "price" : "230.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
@@ -111,8 +111,8 @@
    "description" : "Compre As Melhores Contas Conosco"
    },
    {
-   "name" : "LARA NG CASH PF",
-   "price" : "200.00",
+   "name" : "SPOTIFY PREMIUM ( 3 MÊSES )",
+   "price" : "9.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
    ],
@@ -120,8 +120,8 @@
    "description" : "Compre As Melhores Contas Conosco"
    },
    {
-   "name" : "LARA BIPA WALLET CRIPTO",
-   "price" : "230.00",
+   "name" : "🛍️ GLOBO PLAY + CANAIS",
+   "price" : "9.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
     ],
@@ -129,8 +129,8 @@
    "description" : "Compre As Melhores Contas Conosco"
     },
     {
-   "name" : "LARA AME DIGITAL",
-   "price" : "220.00",
+   "name" : "COMBO | DISNEY + STAR🎉",
+   "price" : "9.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
     ],
@@ -138,8 +138,8 @@
    "description" : "Compre As Melhores Contas Conosco"
     },
     {
-   "name" : "LARA CAPITUAL PF",
-   "price" : "125.00",
+   "name" : "COMBO | HBOMAX + PRIME VIDEO 🎉",
+   "price" : "9.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
     ],
@@ -147,8 +147,8 @@
    "description" : "Compre As Melhores Contas Conosco"
     },
     {
-   "name" : "LARA BIANANCE PF",
-   "price" : "450.00",
+   "name" : "COMBO - CRUNCHYROLL + DISNEY + STAR 🎉",
+   "price" : "9.50",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
     ],
@@ -156,8 +156,8 @@
    "description" : "Compre As Melhores Contas Conosco"
     },
     {
-   "name" : "LARA ASTROPAY PF",
-   "price" : "200.00",
+   "name" : "NORD VPN + ACESSO 30 DIAS",
+   "price" : "15.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
     ],
@@ -165,8 +165,8 @@
    "description" : "Compre As Melhores Contas Conosco"
     },
     {
-   "name" : "LARA BANQI PF",
-   "price" : "200.00",
+   "name" : "CHATGPT 4 PLUS - ENTREGA AUTOMÁTICA",
+   "price" : "20.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
     ],
@@ -174,13 +174,22 @@
    "description" : "Compre As Melhores Contas Conosco"
     },
     {
-   "name" : "LARA CHAVE PIX CPF ( ESPECIFICO )",
-   "price" : "550.00",
+   "name" : "CANVA PRO ( LINK )",
+   "price" : "5.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
     ],
    "image" : "http://res.cloudinary.com/duajg3ah1/image/upload/v1717787666/17174773070278786imagem_olrpsh.png",
    "description" : "Compre As Melhores Contas Conosco"
+    },
+    {
+   "name" : "CAPCUT PRO ACESSO 30 DIAS - PRIVADO",
+   "price" : "8.00",
+   "options" : [
+    { "Size" : "30 DIas,3 Mêses,1 Ano" }
+    ],
+   "image" : "http://res.cloudinary.com/duajg3ah1/image/upload/v1717787666/17174773070278786imagem_olrpsh.png",
+   "description" : "Compre As Melhores Contas Conosco"  
   }
  ]
 }
