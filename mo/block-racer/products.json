@@ -1,113 +1,113 @@
 {
  "products" : [
   {
-   "name" : "Netflix Premium",
-   "price" : "35.99",
+   "name" : "😍 AMADANI ( MODELO ESTRUTURADA E VALIDADA )",
+   "price" : "15.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
    ],
-   "image" : "https://images.ctfassets.net/4cd45et68cgf/Rx83JoRDMkYNlMC9MKzcB/2b14d5a59fc3937afd3f03191e19502d/Netflix-Symbol.png?w=700&h=456",
+   "image" : "http://res.cloudinary.com/duajg3ah1/image/upload/v1717792552/AMADANI_MODELO_ESTRUTURADA_E_VALIDADA_pmleox.jpg",
    "description" : "Compre As Melhores Contas Conosco"
   },
   {
-   "name" : "Disney Plus",
-   "price" : "15.99",
+   "name" : "😍 ME1ADINHA ( MODELO ESTRUTURADA E VALIDADA )",
+   "price" : "15.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" },
     { "Color" : "Blue,Red" },
        { "OneOfAKind" : true }
    ],
-   "image" : "https://i.pinimg.com/736x/2b/fc/f1/2bfcf1f53b5d6fc10998509152011368.jpg",
+   "image" : "http://res.cloudinary.com/duajg3ah1/image/upload/v1717792571/ME1ADINHA_MODELO_ESTRUTURADA_E_VALIDADA_ayfmeg.jpg",
    "description" : "Compre As Melhores Contas Conosco"
   },
   {
-   "name" : "Canva Pro",
-   "price" : "15.99",
+   "name" : "😍 YELLY001 ( MODELO ESTRUTURADA E VALIDADA )",
+   "price" : "15.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
    ],
-   "image" : "https://upload.wikimedia.org/wikipedia/commons/5/5e/Canva_logo..png",
+   "image" : "http://res.cloudinary.com/duajg3ah1/image/upload/v1717792590/YELLY001_MODELO_ESTRUTURADA_E_VALIDADA_a0j2jm.jpg",
    "description" : "Compre As Melhores Contas Conosco"
   },
   {
-   "name" : "Paramount+",
-   "price" : "35.99",
+   "name" : "😍 BIGJUICEYBOOTYY ( MODELO ESTRUTURADA E VALIDADA )",
+   "price" : "15.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
    ],
-   "image" : "https://store-images.s-microsoft.com/image/apps.35768.9007199266243596.ad78eadf-f174-4f68-8c73-562e5c227afa.9171eaf0-5404-436f-803e-5f420e055b0e",
+   "image" : "http://res.cloudinary.com/duajg3ah1/image/upload/v1717792609/BIGJUICEYBOOTYY_MODELO_ESTRUTURADA_E_VALIDADA_utggas.jpg",
    "description" : "Compre As Melhores Contas Conosco"
   },
   {
-   "name" : "Google Pay + Gift",
-   "price" : "35.99",
+   "name" : "😍 JAMELIZZZZ ( MODELO ESTRUTURADA E VALIDADA )",
+   "price" : "15.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
    ],
-   "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDbRoxjX9zMadxJkbonfOqo_SRJGFjlznkYXO95Se_xGpQ0emCUBmANgXb8rqCZVPoJsA&usqp=CAU",
+   "image" : "http://res.cloudinary.com/duajg3ah1/image/upload/v1717792627/JAMELIZZZZ_MODELO_ESTRUTURADA_E_VALIDADA_ycls0k.jpg",
    "description" : "Compre As Melhores Contas Conosco"
   },
   {
-   "name" : "Prime Video",
-   "price" : "35.99",
+   "name" : "😍 LEWDROO ( MODELO ESTRUTURADA E VALIDADA )",
+   "price" : "15.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
    ],
-   "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Amazon_Prime_Video_blue_logo_1.svg/2048px-Amazon_Prime_Video_blue_logo_1.svg.png",
+   "image" : "http://res.cloudinary.com/duajg3ah1/image/upload/v1717792652/LEWDROO_MODELO_ESTRUTURADA_E_VALIDADA_sg4zig.jpg",
    "description" : "Compre As Melhores Contas Conosco"
   },
   {
-   "name" : "Star++ Plus",
-   "price" : "35.99",
+   "name" : "😍 POCAHCARIOCA ( MODELO ESTRUTURADA E VALIDADA )",
+   "price" : "15.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
    ],
-   "image" : "https://play-lh.googleusercontent.com/aZLb5JKvnzXBAcaU2M9fsgp0vfYBfsXQu_yHaehDzqMDqxCXixVPOdY3y1kWVfJfSBew=w240-h480-rw",
+   "image" : "http://res.cloudinary.com/duajg3ah1/image/upload/v1717792672/POCAHCARIOCA_MODELO_ESTRUTURADA_E_VALIDADA_kq6jxz.jpg",
    "description" : "Compre As Melhores Contas Conosco"
   },
   {
-   "name" : "Premiere",
-   "price" : "35.99",
+   "name" : "😍 ANNABERNADI ( MODELO ESTRUTURADA E VALIDADA )",
+   "price" : "15.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
    ],
-   "image" : "https://play-lh.googleusercontent.com/ibgef_YvMpb3I0yHgRbtp78AXJI9YQi56j-RolGp3IhIK1bfLmhmVbllxFnBVj-ka6d7=w240-h480-rw",
+   "image" : "http://res.cloudinary.com/duajg3ah1/image/upload/v1717792689/ANNABERNADI_MODELO_ESTRUTURADA_E_VALIDADA_ecxiy8.jpg",
    "description" : "Compre As Melhores Contas Conosco"
   },
   {
-   "name" : "Hbo Max Premium",
-   "price" : "35.99",
+   "name" : "😍 EVEDUATSON ( MODELO ESTRUTURADA E VALIDADA )",
+   "price" : "15.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
    ],
-   "image" : "https://play-lh.googleusercontent.com/1iyX7VdQ7MlM7iotI9XDtTwgiVmqFGzqwz10L67XVoyiTmJVoHX87QtqvcXgUnb0AC8=w240-h480-rw",
+   "image" : "http://res.cloudinary.com/duajg3ah1/image/upload/v1717792704/EVEDUATSON_MODELO_ESTRUTURADA_E_VALIDADA_bfzxjh.jpg",
    "description" : "Compre As Melhores Contas Conosco"
   },
   {
-   "name" : "Crunchyroll Premium",
-   "price" : "35.99",
+   "name" : "😍 LILITHCAVALI ( MODELO ESTRUTURADA E VALIDADA )",
+   "price" : "15.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
    ],
-   "image" : "https://yt3.googleusercontent.com/ytc/AIdro_lXbebO3qrmElP3NV2fo0yjPsiX8o5FBNKQ2EPBuhD_Cto=s900-c-k-c0x00ffffff-no-rj",
+   "image" : "http://res.cloudinary.com/duajg3ah1/image/upload/v1717792730/LILITHCAVALI_MODELO_ESTRUTURADA_E_VALIDADA_arntm0.jpg",
    "description" : "Compre As Melhores Contas Conosco"
   },
   {
-   "name" : "Spotify Premium",
-   "price" : "35.99",
+   "name" : "😍 PISSQU33N( MODELO ESTRUTURADA E VALIDADA )",
+   "price" : "15.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
    ],
-   "image" : "https://play-lh.googleusercontent.com/cShys-AmJ93dB0SV8kE6Fl5eSaf4-qMMZdwEDKI5VEmKAXfzOqbiaeAsqqrEBCTdIEs=w240-h480-rw",
+   "image" : "http://res.cloudinary.com/duajg3ah1/image/upload/v1717792744/PISSQU33N_MODELO_ESTRUTURADA_E_VALIDADA_jtfzmz.jpg",
    "description" : "Compre As Melhores Contas Conosco"
   },
   {
-   "name" : "Youtube Premium",
-   "price" : "35.99",
+   "name" : "😍 KEYYFREE ( MODELO ESTRUTURADA E VALIDADA )",
+   "price" : "15.00",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
    ],
-   "image" : "https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png",
+   "image" : "http://res.cloudinary.com/duajg3ah1/image/upload/v1717792759/KEYYFREE_MODELO_ESTRUTURADA_E_VALIDADA_w9dinj.jpg",
    "description" : "Compre As Melhores Contas Conosco"
   }
  ]
