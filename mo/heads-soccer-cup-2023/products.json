@@ -6,7 +6,7 @@
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
    ],
-   "image" : "https://images.ctfassets.net/4cd45et68cgf/Rx83JoRDMkYNlMC9MKzcB/2b14d5a59fc3937afd3f03191e19502d/Netflix-Symbol.png?w=700&h=456",
+   "image" : "http://res.cloudinary.com/duajg3ah1/image/upload/v1717791692/unnamed_qjr0qv.png",
    "description" : "Compre As Melhores Contas Conosco"
   },
   {
@@ -17,7 +17,7 @@
     { "Color" : "Blue,Red" },
        { "OneOfAKind" : true }
    ],
-   "image" : "https://i.pinimg.com/736x/2b/fc/f1/2bfcf1f53b5d6fc10998509152011368.jpg",
+   "image" : "http://res.cloudinary.com/duajg3ah1/image/upload/v1717791723/i656935_lnopam.jpg",
    "description" : "Compre As Melhores Contas Conosco"
   },
   {
